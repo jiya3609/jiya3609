@@ -23,8 +23,8 @@
 ---
 
 ### 📬 Connect with Me  
-- 📧 Email: *[add your email here]*  
-- 💼 [LinkedIn](#) | 🐦 [Twitter](#) | 🌐 [Portfolio](#) *(replace `#` with your actual links)*  
+- 📧 Email: jiyapandit15@gmail.com 
+  <!---💼 [LinkedIn](#) | 🐦 [Twitter](#) | 🌐 [Portfolio](#) *(replace `#` with your actual links)*  --->
 
 ---
 
